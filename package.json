@@ -29,5 +29,5 @@
   },
   "devDependencies": {
     "umi-library": "^1.6.0"
-  },
+  }
 }
