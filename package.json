@@ -25,8 +25,9 @@
     "@babel/plugin-proposal-optional-chaining": "^7.2.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-hammerjs": "^1.0.1",
-    "umi-library": "^1.6.0",
     "xmldom": "^0.1.27"
-  }
+  },
+  "devDependencies": {
+    "umi-library": "^1.6.0"
+  },
 }
